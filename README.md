@@ -20,3 +20,7 @@
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
+
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
