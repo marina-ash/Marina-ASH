@@ -22,5 +22,5 @@
 </p>  
 
 <p align="center">
-    <img align="center" src="<iframe src="https://giphy.com/embed/xYPdnwsRPZDhCxXvOi" width="480" height="322" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-computing-programs-xYPdnwsRPZDhCxXvOi">via GIPHY</a></p>">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif"/>
 </p>
