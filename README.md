@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina ASHRAF MORIS</h1>
 <h3 align="center">A passionate developer in training</h3>
 
-- 🔭 I’m currently working on **Project Saint-Georges**
+- 🔭 I’m currently working on **Project Armada_Project**
 
 - 🌱 I’m currently learning **javaScript and Java**
 
