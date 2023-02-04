@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project Armada_Project**
 
-- 🌱 I’m currently learning **javaScript and Java**
+- 🌱 I’m currently learning **PHP and Java**
 
 - 📫 How to reach me **ashrafmarina2402@gmail.com**
 
